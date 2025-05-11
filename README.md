@@ -6,6 +6,6 @@
 - `cd notebooks/`
 - Run notebooks
 
-## Docker Componse
+## Docker Compose
 - `docker compose up -d`
 - Go to http://localhost:8888
